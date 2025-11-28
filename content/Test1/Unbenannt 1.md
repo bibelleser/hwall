@@ -1,1 +1,3 @@
 asdf
+
+[[content/index|index]]

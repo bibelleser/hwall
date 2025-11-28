@@ -1,3 +1,27 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* Blendet die Lesezeit aus */
+p.content-meta {
+    display: none !important;
+}
+
+/* Footer ausblenden */
+footer {
+    display: none !important;
+}
+
+svg.readerIcon {
+    display: none !important;
+}
+
+/* Original-Text unsichtbar machen */
+button.explorer-toggle h2 {
+    font-size: 0 !important;   /* Text ausblenden */
+}
+
+/* Neuen Text einfügen */
+button.explorer-toggle h2::after {
+    content: "Navigation";
+    font-size: 1rem;          /* gewünschte Größe */
+    color: inherit;             /* übernimmt Sidebar-Farbe */
+}
