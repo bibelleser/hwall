@@ -25,3 +25,13 @@ button.explorer-toggle h2::after {
     font-size: 1rem;          /* gewünschte Größe */
     color: inherit;             /* übernimmt Sidebar-Farbe */
 }
+
+/* "Schule" in der Navigation ausblenden */
+.explorer-content a[data-for="Schule"],
+.explorer-content a[href="./Schule"],
+.explorer-content a[href$="Schule"] {
+  display: none !important;
+}
+
+
+

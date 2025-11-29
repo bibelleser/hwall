@@ -1,14 +1,13 @@
 ---
 title: Herzlich willkommen!
 ---
-<br>
-<br>
-Hier entsteht eine neue Internetseite!
-[[Unbenannt 1]]
+<br> <br>
+
+Hier entsteht eine neue Internetseite! [[Unbenannt 1]] asdf
 
 [[Gemeindelehre]]
 
-[[about]]
+[[about]] Aber ein Link zur [[Schule]] geht.
 
 [[AB-Groß--und-Kleinschreibung-(gemischt-Kl.-10).pdf]]
 

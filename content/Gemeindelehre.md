@@ -2,9 +2,9 @@
 tags:
 ---
 
-### Gemeindelehre - Überblick zum Unterricht
+### Überblick zum Unterricht 2025-2026
 
-| Datum  | Inhalt                                              | Präsentation                                              |
+| Datum  | Inhalt                                              | Folien                                                    |
 | ------ | --------------------------------------------------- | --------------------------------------------------------- |
 | 18.08. | 1. Einführung und Orga<br>2. Was ist die Gemeinde?  | [[Gemeindelehre (Unterricht 2025-2026) - Teil 01.pdf]]    |
 | 01.09. | 2. Was ist die Gemeinde?                            | [[Gemeindelehre (Unterricht 2025-2026) - Teil 02.pdf]]    |
