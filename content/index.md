@@ -3,15 +3,7 @@ title: Herzlich willkommen!
 ---
 <br> <br>
 
-Hier entsteht eine neue Internetseite! [[Unbenannt 1]] asdf
-
+Hier entsteht eine neue Internetseite! 
 [[Gemeindelehre]]
 
-[[about]] Aber ein Link zur [[Schule]] geht.
-
-[[AB-Groß--und-Kleinschreibung-(gemischt-Kl.-10).pdf]]
-
 usw.
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
